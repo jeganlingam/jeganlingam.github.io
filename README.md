@@ -9,5 +9,3 @@
 
 <hr>
 
-<h5>Learning Swift UI</h5>
-<p>Using Pluralsight and Apple developer documentation</p>
